@@ -3,6 +3,9 @@ import Customizer from './pages/Customizer';
 import Home from './pages/Home';
 
 function App() {
+
+  console.log('deployed')
+
   return (
     <main className="app transition-all ease-in">
       <Home />
